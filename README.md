@@ -1,5 +1,4 @@
 # MK_Shop เพิ่มประเภทสินค้าแล้ว
-Created by Nongyao Sornjapo
 
 
 ## Project setup
@@ -12,7 +11,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for productiongit 
 ```
 npm run build
 ```
