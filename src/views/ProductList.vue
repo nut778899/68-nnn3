@@ -134,7 +134,7 @@ export default {
     const error = ref(null);
 
     // ✅ เพิ่มประเภทสินค้า
-    const categories = ["เนื้อสัตว์", "ผัก", "เครื่องดื่ม"];
+    const categories = ["เนื้อสัตว์", "ผัก", "เครื่องดื่ม" ];
     const selectedCategory = ref("ทั้งหมด");
 
     // ✅ ดึงข้อมูลสินค้า
